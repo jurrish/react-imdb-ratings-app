@@ -1,0 +1,1 @@
+# react-imdb-ratings-app
